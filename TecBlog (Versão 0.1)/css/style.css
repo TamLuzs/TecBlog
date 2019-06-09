@@ -1,0 +1,87 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-size: 16px;
+	font-family: 'Trebuchet MS', 'Helvetica', 'sans-serif';
+	background: #F3F3F3;
+}
+
+#Navegacao{
+	background: #FFF;
+	border: 1px solid #D8D8D8;
+	height: 45px;
+}
+
+#Area{
+	width: 720px;
+	margin: 0 auto;
+}
+
+.verde{
+	color: #B9C941;
+}
+
+#Menu{
+	float: right;
+	padding: 10px 0; 
+}
+
+a{
+	text-decoration: none;
+	padding: 5px 10px;
+}
+
+a:link{
+	color: #838383;
+}
+
+a:visited{
+	color: #838383;
+}
+
+a:hover{
+	color: #FFF;
+	background-color: #B9C941;
+}
+
+a:active{
+	color: #535353;
+}
+
+#Logo{
+	float: left;
+}
+
+#AreaPrincipal{
+	width: 720px;
+	margin: 10px auto 10px auto;
+}
+
+.Postagem{
+	background-color: #FFF;
+	padding: 10px;
+	margin-top: 15px;
+}
+
+.DataPostagem{
+	font-size: 14px;
+	border: 1px solid #F4F4F4;
+	display: block;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+.Img-Postagem{
+	float: left;
+	margin: 0 10px 10px 0;
+}
+
+.Postado{
+	border-left: 5px solid #D8D8D8;
+	padding-left: 5PX;
+	display: block;
+	margin-top: 10px;
+}

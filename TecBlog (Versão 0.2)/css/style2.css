@@ -1,0 +1,100 @@
+*{
+	margin: 0 auto;
+	padding: 0 auto;
+	width: 0 auto;
+	height: 0 auto;
+}
+
+body{
+	background-color: #85C1E9;
+	font-family: Ariel;
+}
+
+header{
+	background-color: #2874A6;
+	height: 110px;
+	width: 100%;
+	text-align: center;
+}
+
+#Logo{
+	font-family: 'Cardo', serif;
+	padding-top: 8px;
+	padding-bottom: 10px;
+	color: #D6EAF8;
+	font-size: 45px;
+}
+
+.LogoEstilo{
+	color: #1B4F72;
+}
+
+nav{
+	display: inline-block
+}
+
+nav a{
+	color: #85C1E9;
+	font-size: 20px;
+	text-decoration: none;
+	padding-left: 15px;
+	padding-right: 15px;	
+}
+
+nav a:hover{
+	background-color:#85C1E9;
+	color: #2874A6; 
+	border-radius: 20px;
+}
+
+article{
+	max-width: 960px;
+}
+
+section{
+	clear: both;
+	border: 2px dashed #D6EAF8;
+	margin-top: 10px;
+	padding: 15px;
+	margin-bottom: 10px;
+}
+
+.DataPostagem{
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	color: #AED6F1;
+}
+
+.Img-Postagem{
+	float: left;
+	margin: 0 15px;
+}
+section p{
+	margin-bottom: 10px;
+	color: #154360;
+}
+
+.Postado{
+	border-left: 3px solid #AED6F1;
+	padding-left: 10px;
+	color: #AED6F1
+}
+
+mark{
+	background-color: #85C1E9;
+	font-size: 22px;
+	font-family: 'Cardo', serif;
+	color: #21618C;
+
+}
+
+footer{
+	clear: both;
+	width: 100%;
+	background-color: #2874A6;
+	text-align: center;
+	color: #D6EAF8;
+	height: 30px;
+	padding: 13px; 
+}
