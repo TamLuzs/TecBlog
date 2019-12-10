@@ -1,5 +1,5 @@
 # TecBlog
-Desvolvimento de front-end com HTML e CSS básico.
+Desenvolvimento de front-end com HTML e CSS básico.
 
 # Menu / Navegação:
 - Home 
