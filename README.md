@@ -11,7 +11,7 @@ Apresentar o conteúdo de modo prático na criação de site estáticos com HTML
 
 **Versões**
 - v1: Desenvolvido no curso.
-- v2: Ateração na estilização.
+- v2: Alteração na estilização.
 
 ### Ferramentas/Codificação Utilizadas:
 - Sublime Text;
