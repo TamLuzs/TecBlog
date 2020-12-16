@@ -1,19 +1,29 @@
 # Blog - TecBlog
 
-### Objetivo:
-Apresentar o conteúdo de modo prático na criação de site estáticos com HTML e CSS.
+## Introdução/Objetivo
+Esse repositório é referente ao projeto de blog de tecnologia um site estático com HTML e CSS, abordado no curso completo de desenvolvimento web da <a href="https://www.udemy.com/course/curso-completo-do-desenvolvedor-web/"> Udemy</a>.
 
-### Informações Adicionais:
-**Páginas/Indices**
-- Home;
-- Artigos: Games, Aplicativos e Eletrônicos;
-- Desenvolvido.
+## 📋 Informação do Projeto
+O projeto reúne as seguintes seções:
 
-**Versões**
-- v1: Desenvolvido no curso.
-- v2: Alteração na estilização.
+- Seção Home;
+- Seção Artigos: Games, Aplicativos e Eletrônicos;
+- Seção Desenvolvido: Direciona para o site da Udemy.
 
-### Ferramentas/Codificação Utilizadas:
+
+### 💻 Layout
+
+Versão 1 = Desenvolvido no curso.
+<p align="center">
+    <img src="https://github.com/TamLuzs/TecBlog/blob/master/layout/TecBlog-v1.PNG">
+</p>
+
+Versão 1 = Alteração na estilização.
+<p align="center">
+    <img src="https://github.com/TamLuzs/TecBlog/blob/master/layout/TecBlog-v2.PNG">
+</p>
+
+
+## 📦 Ferramentas/Tecnologias Utilizadas:
 - Sublime Text;
-- HTML5;
-- CSS3.
+- HTML5 e CSS3 / HTML e CSS.
